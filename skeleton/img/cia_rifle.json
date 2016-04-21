@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "cia_rifle_sheet.png",
+	"frame": {"x":2,"y":2,"w":783,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":96,"w":783,"h":403},
+	"sourceSize": {"w":906,"h":512}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cia_rifle.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "0.7",
+	"smartupdate": "$TexturePacker:SmartUpdate:ced4c608eca503be240be2a175f6a020:cd214b3e5acc3db75fae46ae0eded408:66353226664d0df133c225f7de69f14c$"
+}
+}

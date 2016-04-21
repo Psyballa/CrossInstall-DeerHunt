@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "cat.jpg",
+	"frame": {"x":2,"y":2,"w":400,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":261},
+	"sourceSize": {"w":400,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA4444",
+	"size": {"w":404,"h":265},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d32161ca096007f4db43ab3578791c9f:78c7e96de8a484d787d3cbd1a715f6e3:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}

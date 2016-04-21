@@ -1,0 +1,17 @@
+<script src="mraid.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli:300">
+<link href="https://img.serveroute.com/<%= ad_name %>/css/mraid_wrapper.css" rel="stylesheet" />
+<script type="text/javascript">
+  var ad_name = "<%= ad_name %>";
+  var ad_title = "<%= ad_title %>";
+  var ad_click_dest = "%CLICK_URL_UNESC%";
+  var ad_orientation = "%ORIENTATION%";
+  var ad_webroot = "https://img.serveroute.com";
+  var ad_logroot = "https://www.serveroute.com";
+  var ad_splash_image = ad_webroot + "/<%= ad_name %>/img/<%= ad_icon_file %>";
+  var ad_has_custom_load_screen = false;
+  var ad_close_duration = %MRAID_CLOSE_DELAY%;
+  var ad_exchange = "%EXCHANGE%";
+  var ad_dynamic_parameters = "%DYNAMIC_PARAMETERS%";
+</script>
+<script type='text/javascript' src='https://img.serveroute.com/<%= ad_name %>/js/code.js'></script>

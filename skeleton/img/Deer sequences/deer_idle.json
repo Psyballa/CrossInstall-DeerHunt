@@ -1,0 +1,372 @@
+{"frames": {
+
+"deer_01_00000.png":
+{
+	"frame": {"x":1,"y":1,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00001.png":
+{
+	"frame": {"x":596,"y":1,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00002.png":
+{
+	"frame": {"x":1191,"y":1,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00003.png":
+{
+	"frame": {"x":1786,"y":1,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00004.png":
+{
+	"frame": {"x":2381,"y":1,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00005.png":
+{
+	"frame": {"x":1,"y":457,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00006.png":
+{
+	"frame": {"x":596,"y":457,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00007.png":
+{
+	"frame": {"x":1191,"y":457,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00008.png":
+{
+	"frame": {"x":1786,"y":457,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00009.png":
+{
+	"frame": {"x":2381,"y":457,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00010.png":
+{
+	"frame": {"x":1,"y":913,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00011.png":
+{
+	"frame": {"x":1,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00012.png":
+{
+	"frame": {"x":1,"y":1825,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00013.png":
+{
+	"frame": {"x":1,"y":2281,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00014.png":
+{
+	"frame": {"x":1,"y":2737,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00015.png":
+{
+	"frame": {"x":596,"y":913,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00016.png":
+{
+	"frame": {"x":1191,"y":913,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00017.png":
+{
+	"frame": {"x":1786,"y":913,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00018.png":
+{
+	"frame": {"x":2381,"y":913,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00019.png":
+{
+	"frame": {"x":596,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00020.png":
+{
+	"frame": {"x":596,"y":1825,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00021.png":
+{
+	"frame": {"x":596,"y":2281,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00022.png":
+{
+	"frame": {"x":596,"y":2737,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00023.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00024.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00025.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00026.png":
+{
+	"frame": {"x":1786,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00027.png":
+{
+	"frame": {"x":2381,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00028.png":
+{
+	"frame": {"x":1191,"y":1825,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00029.png":
+{
+	"frame": {"x":1191,"y":2281,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00030.png":
+{
+	"frame": {"x":1191,"y":2737,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00031.png":
+{
+	"frame": {"x":1786,"y":1825,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00032.png":
+{
+	"frame": {"x":2381,"y":1825,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00033.png":
+{
+	"frame": {"x":1786,"y":2281,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00034.png":
+{
+	"frame": {"x":2381,"y":2281,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00035.png":
+{
+	"frame": {"x":1786,"y":2737,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00036.png":
+{
+	"frame": {"x":2381,"y":2737,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00037.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00038.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00039.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00040.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00041.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00042.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00043.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+},
+"deer_01_00044.png":
+{
+	"frame": {"x":1191,"y":1369,"w":593,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":593,"h":454},
+	"sourceSize": {"w":650,"h":500}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "deer_idle.png",
+	"format": "RGBA8888",
+	"size": {"w":2975,"h":3192},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e9990624fd619f5dc7300b67950e4f12:32301bda1a35f5ee5220aa84c32cd6e9:ebfee39a73019ca2c48c63f8ca15087d$"
+}
+}
